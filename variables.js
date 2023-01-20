@@ -1,5 +1,5 @@
 //var määrittää globaalin muuttujan
-var fname="Teppo";
+var fname="Matti";
 console.log("Nimi on "+fname);
 
 for(var x=1; x<5; x++){
